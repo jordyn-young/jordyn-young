@@ -8,7 +8,7 @@
 - 💬 Ask me about ... 🐶💻☕
 - 😄 Pronouns: she/her
 
-Feel free to contact me at jordynbariyoung@gmail.com about research, collaborations, podcast/recipe recommendations, or just to say hi! 😊
+Feel free to contact me at jby28@drexel.edu about research, collaborations, podcast/recipe recommendations, or just to say hi! 😊
 
 
 
