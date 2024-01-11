@@ -1,13 +1,13 @@
 ### Hi there, I'm Jordyn! 👋
 
-- 👩‍💻 I'm a PhD Student in Information Science 💻 my research interests include human-computer interaction, social computing, computational social science, and online support
+- 👩‍💻 I'm a PhD Student at the University of Michigan's School of Information 💻 my research interests include human-computer interaction, social computing, computational social science, and online support
 - 🎉 When I'm not working, you can probably find me at the dog park with my pup Bumper 🐶, riding my bike along the Schuylkill River 🚲, listening to a podcast or audiobook 🎧, or baking desserts to share with friends 🧁
-- 📍 I live in Philadelphia, but I grew up in the North East (and yes, I do run on Dunkin! ☕)
+- 📍 I live in Michigan, but I grew up in the North East (and yes, I do run on Dunkin! ☕)
 - 🌱 I’m currently learning about data extraction methods for online forums
 - 💬 Ask me about ... 🐶💻☕
 - 😄 Pronouns: she/her
 
-Feel free to contact me at jby28@drexel.edu about research, collaborations, podcast/recipe recommendations, or just to say hi! 😊
+Feel free to contact me at jordyny@umich.edu about research, collaborations, podcast/recipe recommendations, or just to say hi! 😊
 
 
 
