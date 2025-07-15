@@ -1,9 +1,9 @@
 ### Hi there, I'm Jordyn! 👋
 
-- 👩‍💻 I'm a PhD Student at the University of Michigan's School of Information 💻 my research interests include human-computer interaction, social computing, computational social science, and online support
-- 🎉 When I'm not working, you can probably find me at the dog park with my pup Bumper 🐶, riding my bike along the Schuylkill River 🚲, listening to a podcast or audiobook 🎧, or baking desserts to share with friends 🧁
-- 📍 I live in Michigan, but I grew up in the North East (and yes, I do run on Dunkin! ☕)
-- 🌱 I’m currently learning about data extraction methods for online forums
+- 👩‍💻 I'm a PhD Candidate at the University of Michigan's School of Information 💻 my research interests include human-computer interaction, non-embodied conversational agents (LLMs), and interpersonal support
+- 🎉 When I'm not working, you can probably find me at the dog park with my pup Bumper 🐶, riding my bike 🚲, listening to a podcast or audiobook 🎧, or baking desserts to share with friends 🧁
+- 📍 I live in Michigan, but I grew up in the Northeast (and yes, I do run on Dunkin! ☕)
+- 🌱 I’m currently learning about statistics for meta-analyses
 - 💬 Ask me about ... 🐶💻☕
 - 😄 Pronouns: she/her
 
